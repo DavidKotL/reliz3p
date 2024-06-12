@@ -1,0 +1,27 @@
+
+body {
+    font-family: sans-serif;
+    background-color: rgb(43, 25, 121);
+    color:rgba(0, 0, 56, 0.295);
+}
+h1 {
+    text-align: center;
+    background-color: rgb(50, 108, 155);
+}
+h2{
+    text-align: center;
+    }
+    .gallery img:hover {
+    opacity: 1;
+    border: 6px solid navy;
+    width: 170px;
+    height: 220px;
+    padding: 5px;
+    transition:0.5s ease-out;
+    
+}span{
+    background-color: rgb(74, 45, 155);
+    color: mediumblue;
+}
+
+
